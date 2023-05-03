@@ -4,4 +4,4 @@
 
 [Final File](html/finalMidtermFile.html)
 
-[Survivor Sexism Data Project](html/survivorSexismData)
+[Survivor Sexism Data Project](html/survivorSexismDataProject)
